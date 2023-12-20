@@ -1,5 +1,3 @@
-# .
-
 ![portada.jpg](Untitled%2066b4ef4ab64b473eae15a7d01af91813/portada.jpg)
 
 # Mi primera aplicación
